@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Algoritmo 29", "Algoritmo 29\Algoritmo 29.vbproj", "{C38FCB13-0679-4AE8-840C-04431914812D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C38FCB13-0679-4AE8-840C-04431914812D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C38FCB13-0679-4AE8-840C-04431914812D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C38FCB13-0679-4AE8-840C-04431914812D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C38FCB13-0679-4AE8-840C-04431914812D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A22BA0D-C17E-4A2C-8BDD-D3CF2CE21DF0}
+	EndGlobalSection
+EndGlobal
